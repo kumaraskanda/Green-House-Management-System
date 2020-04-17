@@ -7,7 +7,7 @@ Flash Magic
 
 Hardware Required:
 LPC2148
-Many other IC's info about all components required can obtained by looking at the circyit diagram
+Many other IC's info about all components required can obtained by looking at the circuit diagram
 
 
 
